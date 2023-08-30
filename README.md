@@ -19,6 +19,7 @@ Follow the instructions below to set up and test the game.
 ``npm install -g react-native-cli``
 
 
+
 ### Platform-Specific
 **Android:**
 **Android Studio & Android SDK**: Required for emulating and debugging React Native applications for Android -> [Download Android Studio](https://developer.android.com/studio).
