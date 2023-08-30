@@ -8,6 +8,8 @@ Follow the instructions below to set up and test the game.
 
 ----
 
+<br>
+
 ## Prerequisites
 
 ### Development Environment
@@ -18,7 +20,7 @@ Follow the instructions below to set up and test the game.
 
 ``npm install -g react-native-cli``
 
-
+<br>
 
 ### Platform-Specific
 **Android:**
@@ -27,6 +29,7 @@ Follow the instructions below to set up and test the game.
 **iOS** (only on macOS):
 **Xcode**: Needed for emulating and debugging React Native applications for iOS -> [Download Xcode from the Mac App Store](https://apps.apple.com/us/app/xcode/id497799835).
 
+<br>
 
 ### Testing environnement
 To check if your environnement is good to go :
@@ -36,6 +39,8 @@ To check if your environnement is good to go :
 ----
 
 ## Installation
+
+<br>
 
 1. **Clone the repository:**
    
@@ -62,13 +67,20 @@ To check if your environnement is good to go :
    
 ``react-native run-ios``
 
+<br>
 
 ----
+
+<br>
 
 ## Contributing
 If you wish to contribute to the project, please create a pull request and detail the changes you're proposing.
 
+<br>
+
 ----
+
+<br>
 
 ## License
 This project is under the MIT license.
