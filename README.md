@@ -8,8 +8,6 @@ Follow the instructions below to set up and test the game.
 
 ----
 
-<br>
-
 ## Prerequisites
 
 ### Development Environment
@@ -40,8 +38,6 @@ To check if your environnement is good to go :
 
 ## Installation
 
-<br>
-
 1. **Clone the repository:**
    
 ``git clone https://github.com/jmbertin/snake-react-native.git``
@@ -67,20 +63,12 @@ To check if your environnement is good to go :
    
 ``react-native run-ios``
 
-<br>
-
 ----
-
-<br>
 
 ## Contributing
 If you wish to contribute to the project, please create a pull request and detail the changes you're proposing.
 
-<br>
-
 ----
-
-<br>
 
 ## License
 This project is under the MIT license.
